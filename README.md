@@ -1,7 +1,16 @@
 ### Olá! 👋
 
 <div>
-<p><a href="https://www.dfilitto.com.br"><img src="https://github.com/gustjose/gustjose/blob/8be4df827bb9508d644544bcbe86963f58c78094/.github/workflows/logo.png?raw=true" width="100%" height="auto"/></a></p>
+<p><a href="https://www.dfilitto.com.br"><img src="https://imgur.com/9xFwec9.png?raw=true" width="100%" height="auto"/></a></p>
+
+<div align="center" >
+  <p><a href="gustjose#2453" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+ 	<a href="https://www.twitch.tv/gustjose" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+  <a href = "mailto:gjvcarreiro@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.youtube.com/@projetoestudodirecionado01" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a></p>
+  </div>
+  
+  <p><br></p>
 
 <div align="center" style="display: inline_block;">
   <a href="https://github.com/gustjose">
@@ -20,11 +29,5 @@
   ##
 
 <div align="center"> 
-  <a href="gustjose#2453" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
- 	<a href="https://www.twitch.tv/gustjose" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-  <a href = "mailto:gjvcarreiro@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.youtube.com/@projetoestudodirecionado01" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
- 
   ![Snake animation](https://github.com/gustjose/gustjose/blob/output/github-contribution-grid-snake.svg)
- 
 </div>
