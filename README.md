@@ -1,7 +1,7 @@
 ### Olá! 👋
 
 <div>
-<p><a href="https://www.dfilitto.com.br"><img src="https://imgur.com/v90CPMG.png?raw=true" width="100%" height="auto"/></a></p>
+<p><a href="https://www.dfilitto.com.br"><img src="https://github.com/gustjose/gustjose/blob/8be4df827bb9508d644544bcbe86963f58c78094/.github/workflows/logo.png?raw=true" width="100%" height="auto"/></a></p>
 
 <div align="center" style="display: inline_block;">
   <a href="https://github.com/gustjose">
