@@ -1,7 +1,7 @@
 ### Olá! 👋
 
 <div>
-<p><a href="https://www.dfilitto.com.br"><img src="https://imgur.com/9xFwec9.png?raw=true" width="100%" height="auto"/></a></p>
+<p><a><img src="https://imgur.com/9xFwec9.png?raw=true" width="100%" height="auto"/></a></p>
 
 <div align="center" >
   <p><a href="gustjose#2453" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
@@ -29,5 +29,5 @@
   ##
 
 <div align="center"> 
-  ![Snake animation](https://github.com/gustjose/gustjose/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/dfilitto/gustjose/blob/output/github-contribution-grid-snake.svg)
 </div>
