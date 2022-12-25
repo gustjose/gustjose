@@ -14,9 +14,9 @@
 
 <div align="center" style="display: inline_block;">
   <a href="https://github.com/gustjose">
-  <img height="100%" src="https://github-readme-stats.vercel.app/api?username=gustjose&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="95%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustjose&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="95%" src="https://github-readme-stats.vercel.app/api?username=gustjose&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img src="https://streak-stats.demolab.com?user=gustjose&count_private=true&theme=tokyonight&border_radius=20"/>
+  <img height="95%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustjose&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
   ##
