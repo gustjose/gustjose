@@ -10,7 +10,7 @@
 [![Gráfico de Atividade](https://github-readme-activity-graph.vercel.app/graph?username=gustjose&bg_color=0d1117&color=6272A4&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center" >
-  <a href = "mailto:gjvcarreiro@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
+  <a href = "mailto:gustavo.carreiro@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
 </div>
   
   ##
