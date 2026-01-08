@@ -3,11 +3,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6272A4&size=35&center=true&vCenter=true&width=1000&lines=Hello+World,+meu+nome+é+Gustavo+Carreiro.;Seja+Bem-vindo!)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=gustjose&show_icons=true&count_private=true&hide_border=true&title_color=6272A4&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Estatísticas Github de Gustavo Carreiro" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustjose&layout=compact&hide_border=true&title_color=6272A4&text_color=00bfbf&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats-fast.vercel.app/api?username=gustjose&show_icons=true&theme=dark&locale=pt-br&hide_border=true&bg_color=232632&title_color=07E9A5" />
+  <img width="41%" height="195px" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=gustjose&layout=compact&langs_count=8&card_width=320&theme=dark&locale=pt-br&hide_border=true&bg_color=232632&title_color=07E9A5" />
 </div>
 
-[![Gráfico de Atividade](https://github-readme-activity-graph.vercel.app/graph?username=gustjose&bg_color=0d1117&color=6272A4&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Gráfico de Atividade](https://github-readme-activity-graph.vercel.app/graph?username=gustjose&bg_color=0d1117&color=6272A4&line=07e9a5&point=0a855c&area=true&hide_border=true&custom_title=Gráfico%20de%20Contribuição)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center" >
   <a href = "mailto:gustavo.carreiro@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
